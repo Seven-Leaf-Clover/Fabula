@@ -30,7 +30,7 @@ SMODS.Back {
             
         local levels = 1
         update_hand_text({sound = 'button',volume = 0.7,pitch = 0.8,delay = 0.3}, {
-            handname = localize('tfl_meteor'),
+            handname = localize('fbl_highway'),
             chips = "...",
             mult = "...",
             level = "..."
