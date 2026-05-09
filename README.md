@@ -7,7 +7,7 @@ Incredibly enough, even though decks are one of the most recurrent things player
 
 Whenever I do find them, they tend to either be akin to the 3 initial decks which I understand to be effectively tutorial decks or way too constraining/linear to the point they would be better as a challenge.
 
-The objective of this mod is to provide it with high quality decks.
+The objective of this mod is to provide the scene with high quality decks.
 
 # Content
 
