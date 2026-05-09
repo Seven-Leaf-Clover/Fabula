@@ -10,7 +10,10 @@
 	"badge_colour": "a69053",
 	"badge_text_colour": "fbf8f0",
 	"version": "1.0",
+	"icon_path": "modicon.png",
+	"icon_width": 32,
 	"dependencies": [
-
-	        ],
+		"Steamodded (>=1.0.0~BETA-1606b)",
+		"Lovely (>=0.7.1)"
+  	]
 }
