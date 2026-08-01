@@ -89,7 +89,7 @@ return {
                  text = {
                      'Whenever you {C:attention}Skip{} a',
                      '{C:attention}Blind{} twice in a row add',
-                     '{C:dark_edition}Negative{} to a random joker',
+                     '{C:dark_edition}Negative{} to a random {C:attention}Joker{}',
                      'Win on ante {C:attention}#1#{}',
                  },
              },
