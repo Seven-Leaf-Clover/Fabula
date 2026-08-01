@@ -70,3 +70,21 @@
    -1 Booster Pack in shop
      When skipping a Blind
  level up 5 random poker hands
+ 
+---------
+
+   -- Accelerator Deck --
+   
+      Whenever you skip a
+    Blind twice in a row add
+   Negative to a random Joker
+         Win on ante 9
+         
+--------
+
+   -- Devil's Deal Deck --
+  
+     Go up to -20 in debt.
+     Get a Negative Wraith
+     every 2 ante changes.
+    Money is harder to find
