@@ -75,6 +75,24 @@ return {
                      '{C:inactive,s:0.8}(Must have room)'
                  },
              },
+             b_fbl_devil = {
+                 name = "Devil's Deal Deck",
+                 text = {
+                     'Go up to {C:red}-#1#{} in debt.',
+                     'Get a {C:dark_edition}Negative{} {C:spectral,T:c_wraith}Wraith{}',
+                     'every {C:attention}#2#{} ante changes.',
+                     'Money is {C:red}harder{} to find',
+                 },
+             },
+             b_fbl_accelerator = {
+                 name = "Accelerator Deck",
+                 text = {
+                     'Whenever you {C:attention}Skip{} a',
+                     '{C:attention}Blind{} twice in a row add',
+                     '{C:dark_edition}Negative{} to a random joker',
+                     'Win on ante {C:attention}#1#{}',
+                 },
+             },
          },
     },
     misc = {
