@@ -9,6 +9,8 @@ Whenever I do find them, they tend to either be akin to the 3 initial decks whic
 
 The objective of this mod is to provide the scene with high quality decks.
 
+Also, you have my blessing to use the assets for your own work.
+
 # Content
 
 As usual with my Balatro mods, all of the new content or modifications can be found in the **Summary** folder above.
