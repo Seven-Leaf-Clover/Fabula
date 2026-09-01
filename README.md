@@ -16,3 +16,8 @@ Also, you have my blessing to use the assets for your own work.
 Every deck can be reviewed on the Mod's wiki!: https://balatromods.miraheze.org/wiki/Fabula 
 
 You can also find an offline description of every deck in the **Summary** folder.
+
+# Communication
+
+Please send any thoughts regarding the mod to the discord channel or to the DMs, thanks. <3
+https://discord.com/channels/1116389027176787968/1502479516210303078
