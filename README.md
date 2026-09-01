@@ -13,4 +13,5 @@ Also, you have my blessing to use the assets for your own work.
 
 # Content
 
-As usual with my Balatro mods, all of the new content or modifications can be found in the **Summary** folder above.
+Every deck can be reviewed on the Mod's wiki!: https://balatromods.miraheze.org/wiki/Fabula 
+You can also find an offline description of every deck in the **Summary** folder.
