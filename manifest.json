@@ -1,0 +1,9 @@
+{
+	"name": "Fabula",
+	"description": "Flavorful Decks",
+	"version_number": "1.1.0",
+	"website_url": "https://github.com/Seven-Leaf-Clover/Fabula",
+	"dependencies": ["Thunderstore-lovely-0.9.0",
+	                 "Steamodded-Steamodded-26.829.0"
+	]
+}
